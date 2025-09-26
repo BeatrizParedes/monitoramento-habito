@@ -1,4 +1,5 @@
-# Habit Tracker React
+
+<img width="2659" height="984" alt="monitoramento_habito" src="https://github.com/user-attachments/assets/86f9c76b-def2-4999-8667-7677b847da5b" />
 
 Este é um projeto de **Monitoramento de Hábitos** feito com React. Permite adicionar hábitos, marcar hábitos cumpridos diariamente, visualizar o progresso e remover hábitos. É armazenado no navegador usando `localStorage`.
 
